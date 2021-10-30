@@ -1,0 +1,11 @@
+#+title: My Personal Karabiner Configuration
+
+* Installation
+To install, clone this repo to ~$HOME/src/karabiner~, i.e. ensure that the ~karabiner.json~ contained in this repo ends up at ~$HOME/src/karabiner/karabiner.json~:
+
+#+begin_src bash
+git clone https://github.com/Eason0210/karabiner-config.git ~/src/karabiner
+ls -s ~/src/karabiner/karabiner.json ~/.config/karabiner/karabiner.json
+#+end_src
+
+Install [[https://karabiner-elements.pqrs.org][Karabiner-Elements]]
